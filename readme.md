@@ -25,3 +25,7 @@ Simply run the receiver and as many clients as you wish in any order and start s
 > ### Learn More
 This project uses Microsoft's [DataCopy API](https://learn.microsoft.com/en-us/windows/win32/dataxchg/data-copy)
 along with [Joseph M. Newcomer's technique](http://www.flounder.com/wm_copydata.htm) to make WM_COPYDATA safe (see *WM_COPYDATA hazards* and *Making WM_COPYDATA safe*).
+
+## Screenshots
+> Three senders concurrently sending messages to a receiver.
+![](screenshot.png)
